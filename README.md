@@ -22,8 +22,9 @@ In contrast, TRFDA focuses on the analysis of changes in pairwise forces over ti
 Citations
 ---------
 
-If you use the TRFDA code, please cite: http://dx.doi.org/10.1186/2046-1682-6-5
-If you use the FDA code, please cite: http://dx.doi.org/10.1186/1471-2105-12-101 
+If you use the TRFDA code, please cite: http://dx.doi.org/10.1186/2046-1682-6-5.
+
+If you use the FDA code, please cite: http://dx.doi.org/10.1186/1471-2105-12-101.
 
 Download, installation and documentation
 ----------------------------------------
