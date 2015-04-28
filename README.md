@@ -37,31 +37,31 @@ TRFDA
 
 Source packages containing the TRFDA code integrated into GROMACS 4.5.3 and the VMD plugins:
 
-    [gromacs-4.5.3_pf2_20130323.tar.gz](gromacs-4.5.3_pf2_20130323.tar.gz)
-    [vmd-plugins_pf2_20120829.tar.gz](vmd-plugins_pf2_20120829.tar.gz) 
+* [gromacs-4.5.3_pf2_20130323.tar.gz](gromacs-4.5.3_pf2_20130323.tar.gz)
+* [vmd-plugins_pf2_20120829.tar.gz](vmd-plugins_pf2_20120829.tar.gz) 
 
 TRFDA manual containing installation instructions, user documentation and description of the file formats:
 
-    [PF2-manual_20120829.pdf](PF2-manual_20120829.pdf) 
+* [PF2-manual_20120829.pdf](PF2-manual_20120829.pdf) 
 
 TRFDA tutorial for obtaining and visualizing changes in pairwise forces and punctual stress (edit paths then execute the included run.sh script):
 
-    [tutorial_pf2.tar.gz](tutorial_pf2.tar.gz) 
+* [tutorial_pf2.tar.gz](tutorial_pf2.tar.gz) 
 
 FDA
 
 Source packages containing the FDA code integrated into GROMACS 4.0.5 and the R package (called FDAtools) which provides functionality to import and analyze pair-wise forces directly in R:
 
-    [gmx_4_0_5_fda.tar.gz](gmx_4_0_5_fda.tar.gz)
-    [FDAtools_1.0.tar.gz](FDAtools_1.0.tar.gz) 
+* [gmx_4_0_5_fda.tar.gz](gmx_4_0_5_fda.tar.gz)
+* [FDAtools_1.0.tar.gz](FDAtools_1.0.tar.gz) 
 
 FDA manual containing user documentation and description of the file formats:
 
-    [fda_manual.pdf](fda_manual.pdf)
+* [fda_manual.pdf](fda_manual.pdf)
 
 File needed for the FDA tutorial:
 
-    [fda_tutorial.zip](fda_tutorial.zip) 
+* [fda_tutorial.zip](fda_tutorial.zip) 
 
 Installing the FDAtools package
 -------------------------------
