@@ -60,9 +60,10 @@ FDA manual containing user documentation and description of the file formats:
 
 * [fda_manual.pdf](fda_manual.pdf)
 
-File needed for the FDA tutorial:
+File needed for the FDA tutorial (split into two files because of the GitHub file limit):
 
-* [fda_tutorial.zip](fda_tutorial.zip) 
+* [fda_tutorial_part1.tar.gz](fda_tutorial_part1.tar.gz) 
+* [fda_tutorial_part2.tar.gz](fda_tutorial_part2.tar.gz) 
 
 Installing the FDAtools package
 -------------------------------
