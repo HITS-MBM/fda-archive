@@ -34,7 +34,9 @@ Although TRFDA offers a super-set of FDA functionality, the FDA code and R libra
 The C code for obtaining pairwise forces is integrated with GROMACS. The typical GROMACS installation instructions apply.
 
 Note: Although the method is called FDA, the code dealing with pairwise force was historically called "pf" (from Pairwise Forces). TRFDA maintained this convention, the code being called "pf2" (from Pairwise Forces version 2).
+
 TRFDA
+-----
 
 Source packages containing the TRFDA code integrated into GROMACS 4.5.3 and the VMD plugins:
 
@@ -50,6 +52,7 @@ TRFDA tutorial for obtaining and visualizing changes in pairwise forces and punc
 * [tutorial_pf2.tar.gz](tutorial_pf2.tar.gz) 
 
 FDA
+---
 
 Source packages containing the FDA code integrated into GROMACS 4.0.5 and the R package (called FDAtools) which provides functionality to import and analyze pair-wise forces directly in R:
 
